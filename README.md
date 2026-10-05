@@ -361,10 +361,3 @@ Potential extensions include:
 
 The Cold-Chain Logistics FDE Project is a practical demonstration of building an AI-assisted logistics operations system that can reason over telemetry, check external conditions, and ground responses in SOP documentation. It is especially relevant for use cases where cold-chain compliance, logistics resilience, and operational decision support must be balanced in real time.
 
----
-
-If you want, I can also generate:
-
-1. a more polished GitHub README with badges and screenshots,
-2. a concise portfolio-style version,
-3. or a final version tailored exactly for this repository with your username/project branding.
